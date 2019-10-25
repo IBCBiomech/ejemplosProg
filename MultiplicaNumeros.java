@@ -5,7 +5,7 @@ class MultiplicaNumeros {
 		String strNum1;
 		String strNum2;
 		int intNum1;
-		int intNum2;
+		int intNum2;     
 		int suma;
 		strNum1 = JOptionPane.showInputDialog("Ingrese el entero 1: ");
 		strNum2 = JOptionPane.showInputDialog("Ingrese el entero 2: ");
